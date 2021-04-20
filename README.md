@@ -1,4 +1,4 @@
-Title: Cow-Origin-for-Origin-Mod
+Title: Cow Origin for Origin Mod
 Description: Its just a Cow origin for the Origin Mod.
 
 Hey there! Thank you for downloading the Cow origin for the Origin mod.
