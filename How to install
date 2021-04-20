@@ -1,0 +1,9 @@
+Step 1: Unzip the installed file and drag cow_origin to your desktop.
+Step 2: Press Windows+R and type in: "%appdata%\.minecraft".
+Step 3: Navigate to your "saves" folder.
+Step 4: Double-click the world in which you want the cow origin.
+Step 5: Double-click datapacks
+Step 6: Drag the cow_origin file into the datapacks folder.
+Step 7: Run minecraft with Fabric, Fabric API and the Origins mod.
+Step 8: Open the world that you have the custom origin installed in.
+Stap 9: Enjoy!
